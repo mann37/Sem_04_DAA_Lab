@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include<iostream>    //only adding the iostream will not allow the sort function to execute...
+//Not required
 using namespace std;
 
 struct Knapsack{
